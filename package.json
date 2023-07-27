@@ -1,5 +1,5 @@
 {
-    "name": "bluetooth-serial-port",
+    "name": "node-bluetooth-spp",
     "version": "3.0.2",
     "description": "Bluetooth serial port communication for Node.js",
     "author": "Eelco Cramer <eelco@hailendal.org>",
@@ -10,11 +10,11 @@
         "linux",
         "windows"
     ],
-    "homepage": "https://github.com/eelcocramer/node-bluetooth-serial-port",
-    "bugs": "https://github.com/eelcocramer/node-bluetooth-serial-port/issues",
+    "homepage": "https://github.com/tyz-coder/node-bluetooth-serial-port",
+    "bugs": "https://github.com/tyz-coder/node-bluetooth-serial-port/issues",
     "repository": {
         "type": "git",
-        "url": "https://github.com/eelcocramer/node-bluetooth-serial-port"
+        "url": "https://github.com/tyz-coder/node-bluetooth-serial-port"
     },
     "directories": {
         "lib": "./lib"
@@ -31,7 +31,7 @@
         "stable": "^0.1.8"
     },
     "optionalDependencies": {
-        "@types/node": "^18.0.0"
+        "@types/node": "^18.15.0"
     },
     "engines": {
         "node": ">= 16.x",
